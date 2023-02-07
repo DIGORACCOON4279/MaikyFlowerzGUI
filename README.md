@@ -1,3 +1,3 @@
 # MaikyFlowerzGUI
 Portfolio de Cantante
-Due mi primer proyecto de IME . Sapiencia
+Fue mi primer proyecto de IME - Sapiencia
