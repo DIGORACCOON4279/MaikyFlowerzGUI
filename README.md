@@ -9,7 +9,7 @@ Singer Portfolio
 
 My first web project - Sapiencia
 
-🚀Link 👉[Project]https://maikyflowerz.000webhostapp.com/
+🚀Link 👉[Project](https://maikyflowerz.000webhostapp.com/)
 
 
 ![logo marca - reducida](https://github.com/DIGORACCOON4279/MaikyFlowerzGUI/assets/88150970/62832fcf-5398-482f-ae90-15442d599760)
