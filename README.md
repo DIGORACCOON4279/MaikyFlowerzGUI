@@ -1,11 +1,11 @@
 
 <div align="center"> 
   
-# Maik![portfolio cantante](https://github.com/DIGORACCOON4279/MaikyFlowerzGUI/assets/88150970/a225a9de-6e7c-4007-b08b-233512b4e1c9)
+[portfolio cantante](https://github.com/DIGORACCOON4279/MaikyFlowerzGUI/assets/88150970/a225a9de-6e7c-4007-b08b-233512b4e1c9)
  
 </div>
 
-Portfolio de Cantante
+Singer Portfolio
 
 My first web project - Sapiencia
 
